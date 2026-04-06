@@ -42,7 +42,6 @@ team_topology:
 Score 1-5 for each dimension. Track trends over time.
 
 | Dimension | Score | Signal |
-|-----------|-------|--------|
 | **Delivery pace** | _ /5 | Are we shipping what we committed? |
 | **Quality** | _ /5 | Bug rate, incident frequency, tech debt trajectory |
 | **Collaboration** | _ /5 | Cross-functional work, PR review speed, knowledge sharing |
@@ -63,7 +62,6 @@ Score 1-5 for each dimension. Track trends over time.
 The ideal team has these roles covered (not necessarily 1:1 with people):
 
 | Role | Description | Gap Impact |
-|------|-------------|------------|
 | **Tech lead** | Architecture decisions, code quality bar | Decisions bottleneck through you |
 | **Senior IC** (2-3) | Carry complex work, mentor juniors | Velocity drops, quality suffers |
 | **Mid-level** (2-3) | Reliable delivery, growing scope | No bench for senior pipeline |
@@ -79,7 +77,6 @@ The ideal team has these roles covered (not necessarily 1:1 with people):
 ### 1:1 Cadence
 
 | Report Level | Frequency | Duration | Focus |
-|-------------|-----------|----------|-------|
 | Direct reports | Weekly | 30 min | Career + blockers + feedback |
 | Skip-levels | Monthly | 30 min | Team health + career + honesty check |
 | Your manager | Weekly | 30 min | Priorities + asks + air cover |
@@ -155,7 +152,6 @@ one_on_one:
 Monitor these signals — if 3+ present, have a retention conversation within a week:
 
 | Signal | Weight | Detection |
-|--------|--------|-----------|
 | LinkedIn profile update | 🔴 High | Someone mentions it, or you notice |
 | Declining 1:1 engagement | 🔴 High | Shorter answers, less eye contact, "everything's fine" |
 | Stopped volunteering for projects | 🟡 Medium | Used to raise hand, now doesn't |
@@ -182,7 +178,6 @@ Rate on two axes (both matter):
 
 **Delivery Impact (What)**
 | Level | Description |
-|-------|-------------|
 | 1 - Below | Missing commitments, quality issues, needs close oversight |
 | 2 - Meeting | Delivering assigned work reliably |
 | 3 - Exceeding | Delivering beyond scope, finding better solutions |
@@ -190,7 +185,6 @@ Rate on two axes (both matter):
 
 **Behaviors (How)**
 | Level | Description |
-|-------|-------------|
 | 1 - Below | Creating friction, not collaborating, ignoring feedback |
 | 2 - Meeting | Professional, collaborative, receptive to feedback |
 | 3 - Exceeding | Mentoring others, proactively improving processes |
@@ -199,7 +193,7 @@ Rate on two axes (both matter):
 **Calibration matrix:**
 
 | | Behavior 1 | Behavior 2 | Behavior 3 | Behavior 4 |
-|---|---|---|---|---|
+
 | **Delivery 4** | Coach behaviors | Strong | Top performer | Superstar |
 | **Delivery 3** | Coach behaviors | Solid | Strong | Top performer |
 | **Delivery 2** | PIP candidate | Meets expectations | Developing | Growing |
@@ -469,7 +463,6 @@ Score each debt item on two axes:
 **Priority = Impact × Cost-of-not-fixing**
 
 | Score | Action |
-|-------|--------|
 | 20-25 | Fix THIS sprint — it's an emergency |
 | 12-19 | Schedule within 2 sprints |
 | 6-11 | Add to quarterly tech debt budget (allocate 15-20% of sprint capacity) |
@@ -513,7 +506,6 @@ code_review_standards:
 ### Sprint Ceremony Cheat Sheet
 
 | Ceremony | Duration | Who | Purpose | Your Role |
-|----------|----------|-----|---------|-----------|
 | **Sprint planning** | 1-2 hrs | Team + PO | Commit to sprint goal | Facilitate, challenge estimates, protect capacity |
 | **Daily standup** | 15 min | Team | Surface blockers | Listen for problems, DON'T manage tasks |
 | **Backlog refinement** | 1 hr | Team + PO | Prepare future work | Ensure technical feasibility, flag risks |
@@ -525,7 +517,6 @@ code_review_standards:
 Track these weekly — trend matters more than absolute numbers:
 
 | Metric | Healthy Range | Red Flag |
-|--------|---------------|----------|
 | **Sprint completion rate** | 80-100% of committed points | <70% for 2+ sprints |
 | **Carry-over stories** | 0-1 per sprint | Same story carried 3+ sprints |
 | **PR cycle time** | <48 hours open to merge | >72 hours consistently |
@@ -538,7 +529,6 @@ Track these weekly — trend matters more than absolute numbers:
 When the team struggles with estimation:
 
 | Certainty Level | Approach |
-|----------------|----------|
 | "We've done this exact thing before" | Size by comparison to past work |
 | "We understand the problem but not the solution" | Spike first (timeboxed), then estimate |
 | "We don't fully understand the problem" | Discovery task (1-2 days), then re-scope |
@@ -607,7 +597,6 @@ incident:
 ### On-Call Health Guidelines
 
 | Metric | Healthy | Unhealthy |
-|--------|---------|-----------|
 | Pages per week | <5 | >10 |
 | Off-hours pages | <2/week | >5/week |
 | Time to acknowledge | <5 min | >15 min |
@@ -624,7 +613,6 @@ incident:
 ### When to Split a Team
 
 | Signal | Action |
-|--------|--------|
 | Team >8 people | Split before communication overhead kills velocity |
 | Two distinct domains in one team | Split along domain boundaries |
 | Standup takes >15 min | Too many threads — people are tuning out |
@@ -643,7 +631,6 @@ incident:
 ### Manager-to-IC Ratio
 
 | Team Size | Structure |
-|-----------|-----------|
 | 3-5 ICs | Player-coach (you're still coding ~30-40%) |
 | 5-8 ICs | Full-time manager (stop coding in critical path) |
 | 8-12 ICs | Split the team OR add a tech lead as force multiplier |
@@ -711,7 +698,6 @@ Send this to your manager and stakeholders every Friday:
 ### Managing Up Checklist
 
 | Do | Don't |
-|----|-------|
 | Bring solutions with problems | Dump problems without proposals |
 | Flag risks early with mitigation plans | Surprise with bad news at the last minute |
 | Quantify impact (hours, $$, users) | Use vague language ("it's kinda slow") |
@@ -831,7 +817,6 @@ stakeholders:
 ## Scoring Rubric: Engineering Manager Effectiveness (0-100)
 
 | Dimension | Weight | Indicators |
-|-----------|--------|------------|
 | **Team health** | 20% | Retention, engagement scores, psychological safety signals |
 | **Delivery** | 20% | Sprint completion, quality metrics, stakeholder satisfaction |
 | **People development** | 20% | Promotions, skill growth, 1:1 quality, mentorship |
