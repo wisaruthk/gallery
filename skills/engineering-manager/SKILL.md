@@ -1,7 +1,8 @@
 ---
 name: Engineering Manager OS
 description: Complete engineering management system — team building, 1:1s, performance, hiring, architecture decisions, incident management, and scaling. From IC-to-manager transition through director-level operations.
-metadata: {"clawdbot":{"emoji":"⚙️","os":["linux","darwin","win32"]}}
+metadata:
+    homepage: https://github.com/wisaruthk/gallery/tree/main/skills/engineering-manager
 ---
 
 # Engineering Manager Operating System
