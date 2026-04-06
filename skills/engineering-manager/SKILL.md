@@ -9,7 +9,7 @@ metadata:
 
 Your complete playbook for engineering leadership. Not generic management advice — this is the specific system that high-performing engineering managers run daily.
 
----
+
 
 ## Phase 1: Team Architecture
 
@@ -72,7 +72,7 @@ The ideal team has these roles covered (not necessarily 1:1 with people):
 
 **Rule of thumb:** Never have >60% of team at same level. Mix creates natural mentorship.
 
----
+
 
 ## Phase 2: 1:1 System
 
@@ -172,7 +172,7 @@ Monitor these signals — if 3+ present, have a retention conversation within a 
 4. Act: Make a concrete commitment within 48 hours — title, comp, scope, flexibility
 5. Follow up: Check back in 1 week. Did what you promised make a difference?
 
----
+
 
 ## Phase 3: Performance Management
 
@@ -302,7 +302,7 @@ promotion_case:
     [Areas they're still developing. Frame as "growing into" not "lacking."]
 ```
 
----
+
 
 ## Phase 4: Hiring Machine
 
@@ -407,7 +407,7 @@ scorecard:
 6. Set a decision deadline (3-5 business days, not open-ended)
 7. Ask: "Is there anything that would make this a clear yes?"
 
----
+
 
 ## Phase 5: Technical Leadership
 
@@ -506,7 +506,7 @@ code_review_standards:
     - "Approve with comments when nothing is blocking — trust your team"
 ```
 
----
+
 
 ## Phase 6: Sprint & Delivery
 
@@ -546,7 +546,7 @@ When the team struggles with estimation:
 
 **Rule:** If an estimate is >8 points (or >5 days), it's not estimated — it's a guess. Break it down further.
 
----
+
 
 ## Phase 7: Incident Management
 
@@ -617,7 +617,7 @@ incident:
 
 **If on-call is unhealthy:** This is a tech debt problem, not a people problem. Invest in reliability before adding headcount.
 
----
+
 
 ## Phase 8: Scaling & Org Design
 
@@ -675,7 +675,7 @@ If you're newly managing (or coaching someone through it):
 - Month 6-12: Confident in the role, building systems. Target.
 - Month 12+: Multiplying impact. If you're not here by month 18, honest conversation needed.
 
----
+
 
 ## Phase 9: Communication & Stakeholder Management
 
@@ -745,7 +745,7 @@ stakeholders:
     currency: "No surprises, clear asks, good judgment"
 ```
 
----
+
 
 ## Phase 10: Engineering Manager Rituals
 
@@ -780,7 +780,7 @@ stakeholders:
 - [ ] Headcount planning — what do we need in 6 months?
 - [ ] Retrospective on YOUR performance — ask your team for feedback
 
----
+
 
 ## Phase 11: Difficult Situations Playbook
 
@@ -826,7 +826,7 @@ stakeholders:
 5. **Immediately:** Start knowledge transfer plan. Identify what only they know.
 6. **To the team:** Transparent but positive. "X is leaving for a great opportunity. Here's our transition plan."
 
----
+
 
 ## Scoring Rubric: Engineering Manager Effectiveness (0-100)
 
@@ -847,7 +847,7 @@ stakeholders:
 - 40-59: Struggling — significant gaps, at risk of losing team trust
 - <40: Intervention needed — coaching, role change, or transition
 
----
+
 
 ## Natural Language Commands
 
